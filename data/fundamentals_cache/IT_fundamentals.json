@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "IT",
-    "fetch_date": "2026-10-15T17:12:16.379996",
+    "fetch_date": "2026-10-22T17:26:58.639165",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 1686454000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 22.63,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-15T17:12:16.382041"
+  "fetched_at": "2026-10-22T17:26:58.640684"
 }
