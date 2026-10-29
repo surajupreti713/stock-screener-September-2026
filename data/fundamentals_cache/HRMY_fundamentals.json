@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "HRMY",
-    "fetch_date": "2026-10-22T17:24:16.680791",
+    "fetch_date": "2026-10-29T18:45:55.619669",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 200489000.0,
       "2025-09-30 00:00:00": 239455000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.024,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-22T17:24:16.682595"
+  "fetched_at": "2026-10-29T18:45:55.620956"
 }

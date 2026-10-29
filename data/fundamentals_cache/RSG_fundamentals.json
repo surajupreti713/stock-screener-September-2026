@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "RSG",
-    "fetch_date": "2026-10-22T17:45:40.136334",
+    "fetch_date": "2026-10-29T19:07:17.898809",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 4235000000.0,
@@ -37,5 +37,5 @@
     "inventory_to_sales_ratio": 0.026,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-22T17:45:40.138316"
+  "fetched_at": "2026-10-29T19:07:17.900074"
 }

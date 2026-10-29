@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PBH",
-    "fetch_date": "2026-10-22T17:40:06.785710",
+    "fetch_date": "2026-10-29T19:01:44.760917",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 249530000.0,
       "2025-09-30 00:00:00": 274114000.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.716,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-22T17:40:06.787785"
+  "fetched_at": "2026-10-29T19:01:44.762201"
 }

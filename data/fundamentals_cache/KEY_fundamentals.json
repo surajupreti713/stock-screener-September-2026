@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "KEY",
-    "fetch_date": "2026-10-22T17:28:05.684590",
+    "fetch_date": "2026-10-29T18:49:44.671439",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 1783000000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 25.714285714285722,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-22T17:28:05.685362"
+  "fetched_at": "2026-10-29T18:49:44.672003"
 }
