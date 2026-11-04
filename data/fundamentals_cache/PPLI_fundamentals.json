@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PPLI",
-    "fetch_date": "2026-10-22T17:42:00.210973",
+    "fetch_date": "2026-11-04T20:21:28.913950",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": 443247000.0,
@@ -27,5 +27,5 @@
     "operating_margin": -3.27,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-22T17:42:00.213050"
+  "fetched_at": "2026-11-04T20:21:28.915611"
 }
