@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "PANL",
-    "fetch_date": "2026-10-29T19:01:29.724438",
+    "fetch_date": "2026-11-05T20:28:03.025401",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 156690000.0,
       "2025-09-30 00:00:00": 168669832.0,
@@ -35,5 +35,5 @@
     "inventory_to_sales_ratio": 0.273,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-10-29T19:01:29.725705"
+  "fetched_at": "2026-11-05T20:28:03.026659"
 }
