@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "NXT",
-    "fetch_date": "2026-11-05T20:25:44.970687",
+    "fetch_date": "2026-11-13T20:06:48.958050",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.238,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T20:25:44.972014"
+  "fetched_at": "2026-11-13T20:06:48.959357"
 }

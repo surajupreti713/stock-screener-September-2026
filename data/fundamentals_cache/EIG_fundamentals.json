@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "EIG",
-    "fetch_date": "2026-11-05T20:03:59.808233",
+    "fetch_date": "2026-11-13T19:45:04.703854",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-09-30 00:00:00": 239300000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 277.77777777777777,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T20:03:59.808780"
+  "fetched_at": "2026-11-13T19:45:04.704442"
 }

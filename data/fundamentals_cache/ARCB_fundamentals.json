@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "ARCB",
-    "fetch_date": "2026-11-05T19:49:40.501143",
+    "fetch_date": "2026-11-13T19:30:48.529714",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": NaN,
@@ -29,5 +29,5 @@
     "operating_margin": 6.41,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T19:49:40.502149"
+  "fetched_at": "2026-11-13T19:30:48.530754"
 }

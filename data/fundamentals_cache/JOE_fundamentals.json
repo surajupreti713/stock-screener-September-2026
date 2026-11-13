@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "JOE",
-    "fetch_date": "2026-11-05T20:15:51.785715",
+    "fetch_date": "2026-11-13T19:56:55.767644",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": NaN,
@@ -40,5 +40,5 @@
     "inventory_to_sales_ratio": 0.024,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T20:15:51.787002"
+  "fetched_at": "2026-11-13T19:56:55.768984"
 }

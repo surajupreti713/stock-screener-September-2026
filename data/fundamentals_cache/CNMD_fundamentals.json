@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CNMD",
-    "fetch_date": "2026-11-05T19:58:38.593712",
+    "fetch_date": "2026-11-13T19:39:43.627842",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": NaN,
       "2025-09-30 00:00:00": 337926000.0,
@@ -38,5 +38,5 @@
     "inventory_to_sales_ratio": 1.081,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T19:58:38.595079"
+  "fetched_at": "2026-11-13T19:39:43.629126"
 }

@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "SRCE",
-    "fetch_date": "2026-11-05T20:37:56.150956",
+    "fetch_date": "2026-11-13T20:18:57.294934",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": NaN,
       "2025-09-30 00:00:00": 110656000.0,
@@ -24,5 +24,5 @@
     "eps_yoy_change": 18.713450292397653,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T20:37:56.151505"
+  "fetched_at": "2026-11-13T20:18:57.295508"
 }

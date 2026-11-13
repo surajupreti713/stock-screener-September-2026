@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "FHI",
-    "fetch_date": "2026-11-05T20:06:41.711924",
+    "fetch_date": "2026-11-13T19:47:45.724044",
     "quarterly_revenue": {
       "2025-06-30 00:00:00": 424844000.0,
       "2025-09-30 00:00:00": 469446000.0,
@@ -27,5 +27,5 @@
     "operating_margin": 31.19,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T20:06:41.712910"
+  "fetched_at": "2026-11-13T19:47:45.725057"
 }

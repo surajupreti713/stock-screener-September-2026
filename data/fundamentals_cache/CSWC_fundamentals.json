@@ -1,7 +1,7 @@
 {
   "data": {
     "ticker": "CSWC",
-    "fetch_date": "2026-11-05T20:00:07.510963",
+    "fetch_date": "2026-11-13T19:41:12.562058",
     "quarterly_revenue": {
       "2025-03-31 00:00:00": NaN,
       "2025-06-30 00:00:00": NaN,
@@ -26,5 +26,5 @@
     "eps_yoy_change": -24.999999999999996,
     "inventory_breakdown_available": false
   },
-  "fetched_at": "2026-11-05T20:00:07.511510"
+  "fetched_at": "2026-11-13T19:41:12.562621"
 }
