@@ -7956,8 +7956,8 @@
     "in_earnings_season": true
   },
   "EVI": {
-    "last_updated": "2026-08-13T13:47:12.266961",
-    "in_earnings_season": true
+    "last_updated": "2026-11-17T21:01:27.837530",
+    "in_earnings_season": false
   },
   "HRZN": {
     "last_updated": "2026-08-13T13:54:26.340795",
@@ -8813,6 +8813,10 @@
   },
   "RUN": {
     "last_updated": "2026-11-16T22:39:33.035785",
+    "in_earnings_season": false
+  },
+  "TWST": {
+    "last_updated": "2026-11-17T21:38:08.961895",
     "in_earnings_season": false
   }
 }
