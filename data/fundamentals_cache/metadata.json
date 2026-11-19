@@ -8838,5 +8838,13 @@
   "VRSA": {
     "last_updated": "2026-11-18T21:15:25.457737",
     "in_earnings_season": false
+  },
+  "BOBS": {
+    "last_updated": "2026-11-19T20:28:29.780037",
+    "in_earnings_season": false
+  },
+  "SG": {
+    "last_updated": "2026-11-19T21:10:00.401825",
+    "in_earnings_season": false
   }
 }
