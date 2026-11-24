@@ -3080,8 +3080,8 @@
     "in_earnings_season": true
   },
   "VC": {
-    "last_updated": "2026-08-14T14:20:29.763317",
-    "in_earnings_season": true
+    "last_updated": "2026-11-24T00:38:28.700297",
+    "in_earnings_season": false
   },
   "VCEL": {
     "last_updated": "2026-11-10T20:29:30.486843",
@@ -7824,8 +7824,8 @@
     "in_earnings_season": true
   },
   "CENT": {
-    "last_updated": "2026-08-11T13:33:00.858504",
-    "in_earnings_season": true
+    "last_updated": "2026-11-23T23:51:45.441898",
+    "in_earnings_season": false
   },
   "CLB": {
     "last_updated": "2026-08-11T13:33:58.681776",
@@ -8849,6 +8849,10 @@
   },
   "SGP": {
     "last_updated": "2026-11-20T20:41:05.284583",
+    "in_earnings_season": false
+  },
+  "NREF": {
+    "last_updated": "2026-11-24T00:19:37.672223",
     "in_earnings_season": false
   }
 }
